@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* site heading css */
+.siteHeading {
+    text-align: center;
+    padding: 28px 0;
+}
+.siteHeading>h1{
+    font-weight: bold;
+    font-size: 35px;
+    color: #ffc022;
+    text-transform: uppercase;
+}
+
+.siteHeading>h1 span{
+    color: #ff287c;
+}
